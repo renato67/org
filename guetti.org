@@ -1,0 +1,40 @@
+;; + la mattina quando mi sveglio ho il naso attappato di muco. poi alzandomi scompare. è come se coricato il mucosi addendi. Perchè c'è tutto quel muco?
+;;  la dottoressa mi ha guardato la TAC che ho fatto e mi ha detto che ho tutta la zona dei seni nasali e intorno al naso molto irritati. So pup fare qualcosa per sfiammare?
+
+;; + controllare SM e RCU
+
+;; + controllare perchè non dormo (o meglio dormo poco e mi sveglio presto, ho un sonno molto leggero)
+
+* ----------------------- CURA ------------------------------
+;; ** TODO puntura compositum (4 composti) <2022-10-28 Fri 18:30 +4d> DEADLINE <2022-12-07 Wed 22:22>
+
+** TODO tabacum 30ch 4 granuli <2022-11-29 Tue 09:00 +4d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-01-04 Wed 17:36]
+:END:
+
+- State "DONE"       from "TODO"       [2023-01-04 Wed 17:36]
+- State "DONE"       from "TODO"       [2023-01-04 Wed 13:06]
+** TODO papaverum rhosae 9 CH 4 granuli 
+ <2022-11-13 Sun 14:30 +1d>
+
+** TODO papaverum rhosae 9 CH 4 granuli 
+ <2022-11-13 Sun 23:30 +1d>
+
+** TODO compositum I e II 4 granuli
+:PROPERTIES:
+:LAST_REPEAT: [2023-01-04 Wed 17:36]
+:END:
+- State "DONE"       from "TODO"       [2023-01-04 Wed 17:36]
+- State "DONE"       from "TODO"       [2023-01-04 Wed 17:36]
+- State "DONE"       from "TODO"       [2023-01-04 Wed 13:06]
+<2022-11-16 Wed 08:30 +1d>
+
+** TODO compositum I e II 4 granuli
+<2022-11-13 Sun 23:30 +1d>
+
+** TODO Drosera 200 CH 4 granuli per sei mesi <2022-11-25 Fri 17:30 .+7d>
+DEADLINE: <2023-04-28 Mon> 
+
+** TODO DIOBETIN fiala da bere <2022-11-05 Sat 10:00 +3d>DEADLINE DEADLINE <2022-12-07 Wed 22:22>
+** TODO visita Fisiatrica 836447096 a Gubbio Largo San Francesco  (veccio ospedale vicino alle logge)<2023-01-12 Thu 16:40>

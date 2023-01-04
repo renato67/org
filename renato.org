@@ -1,0 +1,33 @@
+;; # Insertaa note for closed todo item.
+;; # Finish with C-c C-c, or cancel with C-c C-k.
+
+#+TAGS casa(c) Giulio(g) Patrizia(p) Renato(r) telefonare(t)
+
+* cose da fare RENATO
+** cili <2022-11-04 Fri 08:00 +3d>
+
+** yoga  <2022-10-04 Tue 18:00-19:30 +1w>
+
+            <2022-10-07 Fri 18:00-19:30 +1w>
+** Patrizia yoga <2022-12-05 Mon 20:30-22:00 +1w>
+<2022-12-07 Wed 17:30-19:00 +1w>
+
+
+
+**  %%(diary-anniversary 11 30 1948) Arthur's birthday (%d years old)
+
+** scade bollo auto rinnovare <2023-08-01 Fri 20:06>
+
+** visita per rinnovo patente da Vicinanza p.zz.le Europa piano III amb num 319 dott. Vicinanza <2023-01-09 Mon 15:30g>
+** aperitivo con Luca <2022-12-27 Tue 18:40>
+[[info:emacs#Sexp Diary Entries]]
+info:emacs#Sexp Diary Entries]]
+** TODO pulizia dentale a VIA QUINTINA, 73 p.s. giovanni Grossi dr. Luca <2022-12-29 Thu 18:15>
+** ferie <2022-12-26 Mon>--<2023-01-07 Sat>
+** visita tesoro di San Gennaro <2022-12-30 Fri 16:00>
+** app.to
+** DONE ritirare VErizina in farmacia <2023-01-04 Wed 11:15>
+** TODO pizza a San Martino in colle con Marco e Barbara <2023-01-03 Tue 19:30>
+** 3 gennaio 2023 12:43
+**                16:09
+** 17:00

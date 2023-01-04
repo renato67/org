@@ -1,0 +1,16 @@
+ # Attività AMORC
+
+** Convocazione riunione membri 21:00-21:45
+ <%%(diary-float t 5 1)>
+ <%%(diary-float t 5 3)>
+
+** Convocazione riunione ufficiali 21:45-22:30
+<%%(diary-float t 5 1)>
+<%%(diary-float t 5 3)>
+
+** Forum di grado+comitato aiuto metafisico ore 17:00>
+<%%(diary-float t 6 2)>
+
+** Festa delle Luce <2022-12-16 Fri 21:00 +1y>
+
+** festa della commemorazione <2022-10-21 Fri 11:00>

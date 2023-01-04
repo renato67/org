@@ -1,0 +1,24 @@
+
+* IDEE PER CORCIANO
+-  stilare un programma dei punti che poi saranno convertiti in slide da visualizzare
+   durante gli incontri
+- realizzare slide in base alla scaletta del programma, di modo che all' esposizione verbale del
+   programma corrispoda una slide da proiettare che le persone possono vedere per fissare meglio
+   le idee espresse
+- durantegli incontri,ci sarà ub solo tavolo con sopra il computer ed il proiettore e gli altri relatori siederanno dalla parte delle persone venute ad ascoltare.
+  Il messaggio deve essere della mancanza di posizioni: "io, uno di voi"
+       
+* DONE riunione <2022-10-04 Tue 13:09>
+* DONE riunione 2022 <10-27-Thu 21 00:*>*
+* DONE incontro ARCA (Siesta) <2022-12-01 Thu 21:00>
+* DONE cena tennis club <2022-12-15 Thu 20:30>
+** PASSARE FTTH
+- le aziende del territorio hanno bisogno di una infrastruttura del genere
+  ne va della loro competitività
+- COME ACQUA, ELETTRICITà, TELEFONO ogni casa deve avere connessione in fibra. questa è al livell di acqua, elettricità, telefono, treno
+- stimolare economicamente (magari tramite una sovvenzione) il cablaggio di ogni abitazione: la presa di rete (collegata alla fibra) deve essere in ogni stanza della casa. Questo può avere un costo come è stato per i casi citati sopra, ma la comunità in barba alla finanza, deve fare questo pas
+** ALFABETIZZAZIONE INFORMATICA
+- fatta la voce precedente (passaggio FTTH) occorre essere sicuri che le normali persone siano in grado di utilizzare i servizi dalla rete
+- creare pool di persone (a secondo di età, importanza, necessità) che conoscano bene cio che l'infrastruttura FTTH puo fare per loro: casa, azienda
+- creare TEAM di persone che offrono supporto informatico alle persone che non sono più in grado (principalmente per ragioni anagrafiche) di sfruttare questo mezzo, ma possono fruirne i vantaggi (fare spesa on line che poi viene recapitata a casa, richiedere prestazioni sanitarie, fiscali etc)
+
